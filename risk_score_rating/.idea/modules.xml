@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../NLP/.idea/NLP.iml" filepath="$PROJECT_DIR$/../../NLP/.idea/NLP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../NLP/address_split/.idea/address_split.iml" filepath="$PROJECT_DIR$/../../NLP/address_split/.idea/address_split.iml" />
+      <module fileurl="file://D:/学习/软件学习/NOTE/Python/credit_rating/.idea/credit_rating.iml" filepath="D:/学习/软件学习/NOTE/Python/credit_rating/.idea/credit_rating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../credit_score/.idea/credit_score.iml" filepath="$PROJECT_DIR$/../credit_score/.idea/credit_score.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../risk_score_rating/.idea/risk_score_rating.iml" filepath="$PROJECT_DIR$/../../risk_score_rating/.idea/risk_score_rating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../t_cmss_trans/.idea/t_cmss_trans.iml" filepath="$PROJECT_DIR$/../../t_cmss_trans/.idea/t_cmss_trans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/.idea/t_cmss_trans201909261644.iml" filepath="$PROJECT_DIR$/../../t_cmss_trans201909261644/.idea/t_cmss_trans201909261644.iml" />
+    </modules>
+  </component>
+</project>

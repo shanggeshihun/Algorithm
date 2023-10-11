@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d06ad18-ff8f-4a3e-9c9c-3885b6ec40b8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/risk_score_rating$satellite_format.coverage" NAME="satellite_format Coverage Results" MODIFIED="1569493067986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$SPCC_format.coverage" NAME="SPCC_format Coverage Results" MODIFIED="1569522694672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$format.coverage" NAME="format Coverage Results" MODIFIED="1569490147958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$test_1.coverage" NAME="test_1 Coverage Results" MODIFIED="1569576364291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$.coverage" NAME="调用执行文件 Coverage Results" MODIFIED="1569139872568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$radar_format.coverage" NAME="radar_format Coverage Results" MODIFIED="1569491826739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$main_close_message__1_.coverage" NAME="main_close_message (1) Coverage Results" MODIFIED="1569490061244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$Python.coverage" NAME="Python代码搜索并批量下载酷狗音乐 Coverage Results" MODIFIED="1571244087657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$main_close_message.coverage" NAME="main_close_message Coverage Results" MODIFIED="1569233935211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$risk.coverage" NAME="risk Coverage Results" MODIFIED="1569147932131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$ClassMysql.coverage" NAME="ClassMysql Coverage Results" MODIFIED="1569148606781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1570415278578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../NLP/address_split" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$close_message.coverage" NAME="close_message Coverage Results" MODIFIED="1569210685593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$trans_type.coverage" NAME="trans_type Coverage Results" MODIFIED="1569233217202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$SPCC_foramt.coverage" NAME="SPCC_foramt Coverage Results" MODIFIED="1569522357590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$main_trans_into_database.coverage" NAME="main_trans_into_database Coverage Results" MODIFIED="1569523044132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$participle_tool.coverage" NAME="participle_tool Coverage Results" MODIFIED="1569824969925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../NLP/address_split" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$main.coverage" NAME="main Coverage Results" MODIFIED="1569210689181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$get_conf.coverage" NAME="get_conf Coverage Results" MODIFIED="1569148249573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$InsertToMysql.coverage" NAME="InsertToMysql Coverage Results" MODIFIED="1569149528936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans" />
+    <SUITE FILE_PATH="coverage/risk_score_rating$test.coverage" NAME="test Coverage Results" MODIFIED="1570972166795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../risk_score_rating/risk.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="367" column="28" lean-forward="true" selection-end-line="442" selection-end-column="13" />
+              <folding>
+                <element signature="e#1268#1286#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../risk_score_rating/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="387" column="15" lean-forward="true" selection-start-line="387" selection-start-column="15" selection-end-line="387" selection-end-column="15" />
+              <folding>
+                <element signature="e#1268#1286#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>insert</find>
+      <find>cconf</find>
+      <find>cc</find>
+      <find>png_path</find>
+      <find>png_p</find>
+      <find>bin_to_png(</find>
+      <find>new_dirs_not_in_topath</find>
+      <find>from_dirs_new2</find>
+      <find>tmp_fiel_lst</find>
+      <find>print</find>
+      <find>join</find>
+      <find>from_dirs_path_lst</find>
+      <find>from_dirs_file_lst</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>to_path</replace>
+      <replace>to_p</replace>
+      <replace>fromfile_format_tofile(</replace>
+      <replace>newdir_not_in_topath</replace>
+      <replace>new_fromdirs</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/123.py" />
+        <option value="$USER_HOME$/Desktop/load_mog_driver_vehicle_certify_his.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/../20190520异常点检测/20190522Isolation_ing.py" />
+        <option value="$PROJECT_DIR$/risk.py" />
+        <option value="$USER_HOME$/Desktop/调用执行文件.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/conf.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/connect_mysql.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/conf.ini" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/__init__.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/InsertToMysql.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/file_info.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/flag.txt.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/flag.txt" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/close_message.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/get_conf.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/test.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/ClassMysql.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/main.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/main_lose_message.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/main_close_message.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/trans_type.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/format_backup.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/format.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/main_trans_into_database_backup.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans/main_trans_into_database.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/tmp.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/ClassMysql.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/file_info.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/get_conf.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/main_close_message.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/format.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/tt.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/radar_format.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/satellite_format.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/execute_exe.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/SPCC_foramt.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/main_trans_into_database.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/test.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/SPCC_format.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/trans_type.py" />
+        <option value="$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/test_1.py" />
+        <option value="$PROJECT_DIR$/../../NLP/address_split/module_test.py" />
+        <option value="$PROJECT_DIR$/../../NLP/address_split/participle_tool.py" />
+        <option value="$PROJECT_DIR$/../../NLP/address_split/test.py" />
+        <option value="$USER_HOME$/Desktop/Python代码搜索并批量下载酷狗音乐.py" />
+        <option value="$PROJECT_DIR$/../../risk_score_rating/risk.py" />
+        <option value="$PROJECT_DIR$/../../risk_score_rating/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="410" />
+    <option name="y" value="72" />
+    <option name="width" value="943" />
+    <option name="height" value="679" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="risk_score_rating" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\learn\software_learn\NOTE\Python\risk_score_rating" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../risk_score_rating" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="credit_score" is-module-sdk="true">
+        <envs>
+          <env key="Anaconda_path" value="C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\ProgramData\Anaconda3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;d:\app\Administrator\virtual\product\12.2.0\dbhome_1;C:\app\Administrator\virtual\product\12.2.0\dbhome_1\bin;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin;C:\Anaconda3\Lib\site-packages\pydotplus\;C:\Program Files (x86)\Java\jdk1.6.0_43\bin;C:\Program Files\JetBrains\PyCharm 2018.3\bin;;d:\Fiddler;d:\Program Files\JetBrains\PyCharm 2018.3\bin;;C:\Program Files (x86)\Google\Chrome\Application; " />
+        </envs>
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="credit_score" />
+        <option name="myEnvs">
+          <map>
+            <entry key="Anaconda_path" value="C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\ProgramData\Anaconda3\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;d:\app\Administrator\virtual\product\12.2.0\dbhome_1;C:\app\Administrator\virtual\product\12.2.0\dbhome_1\bin;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\MySQL\MySQL Server 5.6\bin;C:\Anaconda3\Lib\site-packages\pydotplus\;C:\Program Files (x86)\Java\jdk1.6.0_43\bin;C:\Program Files\JetBrains\PyCharm 2018.3\bin;;d:\Fiddler;d:\Program Files\JetBrains\PyCharm 2018.3\bin;;C:\Program Files (x86)\Google\Chrome\Application; " />
+          </map>
+        </option>
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="risk" type="PythonConfigurationType" factoryName="Python">
+      <module name="address_split" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../risk_score_rating" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../risk_score_rating/risk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="address_split" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../NLP/address_split" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../NLP/address_split/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.participle_tool" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d06ad18-ff8f-4a3e-9c9c-3885b6ec40b8" name="Default Changelist" comment="" />
+      <created>1563864404251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563864404251</updated>
+      <workItem from="1563864405848" duration="27476000" />
+      <workItem from="1564048506481" duration="140000" />
+      <workItem from="1569131614068" duration="1917000" />
+      <workItem from="1569134448478" duration="86000" />
+      <workItem from="1569134589310" duration="2892000" />
+      <workItem from="1569139839041" duration="5293000" />
+      <workItem from="1569146000695" duration="1211000" />
+      <workItem from="1569147251445" duration="779000" />
+      <workItem from="1569148070311" duration="336000" />
+      <workItem from="1569148439053" duration="329000" />
+      <workItem from="1569148800318" duration="92000" />
+      <workItem from="1569149030359" duration="4897000" />
+      <workItem from="1569156964350" duration="631000" />
+      <workItem from="1569157626169" duration="6454000" />
+      <workItem from="1569201169720" duration="17299000" />
+      <workItem from="1569298943173" duration="572000" />
+      <workItem from="1569487854309" duration="7570000" />
+      <workItem from="1569502988518" duration="19892000" />
+      <workItem from="1569546680919" duration="909000" />
+      <workItem from="1569547942481" duration="4501000" />
+      <workItem from="1569561817345" duration="8230000" />
+      <workItem from="1569750033458" duration="583000" />
+      <workItem from="1569805366720" duration="16724000" />
+      <workItem from="1570265870889" duration="2371000" />
+      <workItem from="1570269592081" duration="2250000" />
+      <workItem from="1570330519226" duration="5797000" />
+      <workItem from="1570336421888" duration="2010000" />
+      <workItem from="1570414742953" duration="25289000" />
+      <workItem from="1570452470801" duration="4925000" />
+      <workItem from="1570523259667" duration="591000" />
+      <workItem from="1570777509562" duration="982000" />
+      <workItem from="1570963964988" duration="6618000" />
+      <workItem from="1571070126987" duration="543000" />
+      <workItem from="1571243195860" duration="1446000" />
+      <workItem from="1571448813603" duration="1279000" />
+      <workItem from="1571651789515" duration="1802000" />
+      <workItem from="1572530472451" duration="5312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="190028000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.14750378" />
+      <window_info id="Structure" order="1" sideWeight="0.501634" side_tool="true" weight="0.13993949" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.30530164" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4695122" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3267974" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.098335855" side_tool="true" weight="0.4003268" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49848714" weight="0.28104576" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.90166414" visible="true" weight="0.44281045" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.18910742" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498366" visible="true" weight="0.11119516" />
+      <window_info id="Structure" order="1" sideWeight="0.501634" side_tool="true" weight="0.13993949" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.3071298" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4695122" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924356" weight="0.3267974" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5015129" side_tool="true" weight="0.60620916" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49848714" weight="0.28104576" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49924356" visible="true" weight="0.40359476" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32843137" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.004538578" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wqer" />
+    <entry file="file://$PROJECT_DIR$/123.py" />
+    <entry file="file://$USER_HOME$/Desktop/load_mog_driver_vehicle_certify_his.py" />
+    <entry file="file://$USER_HOME$/Desktop/load_mog_driver_vehicle_certify_his_.py" />
+    <entry file="file://$PROJECT_DIR$/../20190520异常点检测/20190522Isolation_ing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="3" />
+          <folding>
+            <element signature="e#14#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/__init__.py" />
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/site-packages/IPython/core/interactiveshell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="2909" selection-start-line="2909" selection-end-line="2909" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/调用执行文件.py" />
+    <entry file="file://$PROJECT_DIR$/risk.py" />
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/InsertToMysql.py" />
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/conf.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/flag.txt.py" />
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/flag.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/test.py" />
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/ClassMysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#134#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/get_conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/main_trans_into_database_backup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/trans_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="17" lean-forward="true" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/main_trans_into_database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" column="27" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/file_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" column="72" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
+          <folding>
+            <element signature="e#117#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding>
+            <element signature="e#23#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/format_backup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans/main_close_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/hainan_transform_and_into_database.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/tmp.py" />
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/file_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/radar_format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="39" column="63" lean-forward="true" selection-start-line="39" selection-start-column="63" selection-end-line="39" selection-end-column="63" />
+          <folding>
+            <element signature="e#174#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/satellite_format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="60" column="9" lean-forward="true" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/execute_exe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/flag.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" lean-forward="true" selection-start-column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/get_conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/main_close_message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+          <folding>
+            <element signature="e#146#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/conf.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/ClassMysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/trans_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/main_trans_into_database.py" />
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1018">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="e#206#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../t_cmss_trans201909261644/t_cmss_trans/SPCC_format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="172" column="71" selection-start-line="172" selection-start-column="17" selection-end-line="172" selection-end-column="71" />
+          <folding>
+            <element signature="e#206#217#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../NLP/address_split/module_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../NLP/address_split/participle_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Python代码搜索并批量下载酷狗音乐.py" />
+    <entry file="file://$USER_HOME$/Desktop/SPCC_format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="71" column="78" lean-forward="true" selection-start-line="71" selection-start-column="78" selection-end-line="71" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/work/GeoStar/SmartCity/shenzhen/南山项目/立体图问题核查/核查语句类/es_parse_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="311" column="38" selection-start-line="311" selection-start-column="38" selection-end-line="311" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../NLP/address_split/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="318" column="11" selection-end-line="330" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../risk_score_rating/risk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="367" column="28" lean-forward="true" selection-end-line="442" selection-end-column="13" />
+          <folding>
+            <element signature="e#1268#1286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../risk_score_rating/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="387" column="15" lean-forward="true" selection-start-line="387" selection-start-column="15" selection-end-line="387" selection-end-column="15" />
+          <folding>
+            <element signature="e#1268#1286#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
